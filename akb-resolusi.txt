@@ -2,3 +2,4 @@ AKB Resolusi
 - Konsisten untuk mempelajari konten 4x seminggu
 - Mempelajari web development
 - Menambah skill inggris
+- Android Develop
